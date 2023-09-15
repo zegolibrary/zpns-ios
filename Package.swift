@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ZPNs",
-            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/zpns-ios/ZPNs.xcframework.zip?version=2.1.0",
-            checksum: "92b68323ddc740ea6c664083e9d984832385eb90e83eb0a0d6f395e0f4058a70"
+            url: "https://artifact-node.zego.cloud/generic/swiftpm/public/zpns-ios/ZPNs.xcframework.zip?version=2.5.0",
+            checksum: "6882851f632c4d4835e177e9810fa54dc2aca99484e73c846b35782e0caf48f4"
         )
     ]
 )
